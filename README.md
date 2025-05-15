@@ -7,8 +7,8 @@ The data used in this project was obtained from the official portal of the Swiss
 To access the data:
 
 1. Visit the [IDAweb portal](https://gate.meteoswiss.ch/idaweb) (registration required)
-2. Request rre150d0 dataset for NEU weather station 
+2. Request rre150d0 dataset for NEU/CHM/CDF weather station 
 3. Comply with MeteoSwiss's usage policy
 
-> 🔐 **Important:** The raw data file may not be redistributed or published in public repositories (e.g., GitHub) without explicit permission from MétéoSwiss. Only derived analyses and visualizations may be shared publicly.
+> 🔐 **Important:** The raw data file may not be redistributed or published in public repositories (e.g., GitHub) without explicit permission from MeteoSwiss. Only derived analyses and visualizations may be shared publicly.
 
